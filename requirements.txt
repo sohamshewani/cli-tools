@@ -1,0 +1,8 @@
+click
+rich
+pytest
+click-repl
+aiohttp
+sqlite3
+asyncio
+coverage
